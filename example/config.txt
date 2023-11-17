@@ -1,0 +1,2 @@
+Prefix plugins/ViolinT/example
+Plugin ViolinT inputfile input.csv outputfile output.png
